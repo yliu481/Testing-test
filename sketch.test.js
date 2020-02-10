@@ -5,7 +5,7 @@ test('adds 1 + 2 to equal 3', ()=>{
 });
 
 test('3 times 4 equals to 12',()=>{
-	expect(prod(3*4)).toBe(12);
+	expect(prod(3, 4)).toBe(12);
 })
 
 test('12/3 equals to 4', ()=>{

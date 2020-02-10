@@ -3,7 +3,7 @@ function sum(a,b){
 };
 
 function prod(a,b){
-	return prod;
+	return a*b;
 };
 
 const devide=(a,b)=>a/b;
